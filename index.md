@@ -7,7 +7,7 @@ title: Yi Liu
     <div class="row-fluid">
         <div class="span2">
         <a href="assets/YiLiu.jpg">
-            <img src="assets/YiLiu.jpg"  width="150" title="Yi Liu" alt="Yi Liu"/>
+            <img src="assets/YiLiu.jpg"  width="200" title="Yi Liu" alt="Yi Liu"/>
         </a>
         </div>
     </div>
@@ -38,10 +38,15 @@ The focus of my research is on the development of statistical methods for single
 
 ---
 
-### CONTACT INFORMATION
+[//]: # (### CONTACT INFORMATION)
 
-<div class="container">
-    <div class="row-fluid">
-            <b>Email</b>: 202183270006@nuist.edu.cn<br/>
-    </div>
-</div>
+[//]: # ()
+[//]: # (<div class="container">)
+
+[//]: # (    <div class="row-fluid">)
+
+[//]: # (            <b>Email</b>: 202183270006@nuist.edu.cn<br/>)
+
+[//]: # (    </div>)
+
+[//]: # (</div>)
