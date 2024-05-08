@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Yuchen Yang
+title: Yi Liu
 ---
 
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="assets/Yuchen.jpg">
-            <img src="assets/Yuchen.jpg" height="210" width="150" title="Yuchen Yang" alt="Yuchen Yang"/>
+        <a href="assets/YiLiu.jpg">
+            <img src="assets/YiLiu.jpg"  width="150" title="Yi Liu" alt="Yi Liu"/>
         </a>
         </div>
     </div>
@@ -20,33 +20,12 @@ The focus of my research is on the development of statistical methods for single
 
 ---
 
-### PROFESSIONAL EXPERIENCE AND EDUCATION
+###  EDUCATION
 
-<div class="container">
-    <div class="row-fluid">
-            2020 - present:  <b>Research Assistant Professor</b><br/>
-            <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
-            <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
-            University of North Carolina, Chapel Hill <br/><br/>
-    </div>
-</div>
-
-2016 - 2020:  <b>Postdoctoral Fellow</b><br/>
-    Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
-    <a href="https://www.med.unc.edu/genetics/">Department of Genetics</a><br/>
-    University of North Carolina, Chapel Hill<br/>
-
-2011 - 2016:  <b>Graduate/Ph.D. Student</b><br/>
-    Major: Biochemistry and Molecular Biology<br/>
-    Advisor: [Dr. Suhua Shi](http://evolution.sysu.edu.cn/Our_team.html)<br/>
-    School of Life Science<br/>
-    Sun Yat-sen University, Guangzhou, China<br/>
-
-
-2007 - 2011:  <b>Undergraduate/B.S. Student</b><br/>
-    Major: Biotechnology<br/>
-    School of Life Science<br/>
-    Sun Yat-sen University, Guangzhou, China<br/>
+2021 - Now:  <b>Undergraduate/B.S. Student</b><br/>
+    Major: Communications Engineering<br/>
+    School of Electronic information Engineering<br/>
+    Nanjing University of Information Science & Technology, NanJing, China<br/>
 
 ---
 
@@ -63,8 +42,6 @@ The focus of my research is on the development of statistical methods for single
 
 <div class="container">
     <div class="row-fluid">
-            <b>Email</b>: yyuchen@email.unc.edu<br/>
-            <b>Office</b>: Medical Biomolecular Research Bldg., 111 Mason Farm Road, Chapel Hill, NC 27599<br/>
-            <b>GitHub</b>: <a href="https://github.com/yycunc">https://github.com/yycunc</a><br/>
+            <b>Email</b>: 202183270006@nuist.edu.cn<br/>
     </div>
 </div>
